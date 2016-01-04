@@ -12,8 +12,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /learn-ios-everyday
+url: http://gongzili456.github.io/learn-ios-everyday
+root: /learn-ios-everyday/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
