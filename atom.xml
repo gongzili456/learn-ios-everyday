@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Learn iOS Everyday]]></title>
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/learn-ios-everyday/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
   <updated>2016-01-04T14:34:06.000Z</updated>
   <id>http://yoursite.com/</id>
