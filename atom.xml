@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Learn iOS Everyday]]></title>
   
-  <link href="/learn-ios-everyday/atom.xml" rel="self"/>
-  <link href="http://gongzili456.github.io/learn-ios-everyday/"/>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://liuguili.xyz/"/>
   <updated>2016-01-04T14:34:06.000Z</updated>
-  <id>http://gongzili456.github.io/learn-ios-everyday/</id>
+  <id>http://liuguili.xyz/</id>
   
   <author>
     <name><![CDATA[Jerry Liu]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[第0天，每天学点iOS]]></title>
-    <link href="http://gongzili456.github.io/learn-ios-everyday/2016/01/04/0-day/"/>
-    <id>http://gongzili456.github.io/learn-ios-everyday/2016/01/04/0-day/</id>
+    <link href="http://liuguili.xyz/2016/01/04/0-day/"/>
+    <id>http://liuguili.xyz/2016/01/04/0-day/</id>
     <published>2016-01-04T13:39:53.000Z</published>
     <updated>2016-01-04T14:34:06.000Z</updated>
     <content type="html"><![CDATA[<p>从业以来，还从未挖过坑。想来多少有些遗憾，惶惶不可终日。故今日特挖此坑，以奠流年。 </p>
